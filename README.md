@@ -28,7 +28,10 @@ Created with <3 by **Giovanni**.
 
 | Secure Login | Dashboard | Card View |
 |:---:|:---:|:---:|
-| ![Login](screen1.png) | ![Dashboard](screen2.png) | ![Card View](screen3.png) |
+| ![Login](<img width="2869" height="1450" alt="image" src="https://github.com/user-attachments/assets/8e93bf73-77ce-4a14-891c-b3aef5d84453" />
+) | ![DB Login](<img width="2871" height="1442" alt="image" src="https://github.com/user-attachments/assets/83285e7a-02bf-4cb9-921f-d0b6ac763dea" />
+) | ![Dashboard](<img width="2877" height="1452" alt="image" src="https://github.com/user-attachments/assets/5279903d-882c-46af-a2e0-eb5e35d0dc23" />
+) |
 
 ---
 
