@@ -1,4 +1,4 @@
-# 💎 Modern DB Viewer (Single-File PHP)
+# 💎 EasyView v1.0 (Single-File PHP)
 
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
