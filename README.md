@@ -32,10 +32,10 @@ Created with <3 by **Giovanni**.
 
 ## 🚀 Quick Start
 
-1.  **Download** the `viewer.php` file.
+1.  **Download** the `easyview.php` file.
 2.  **Upload** it to your web server (e.g., inside `public_html`).
 3.  **Configure** the security password (see below).
-4.  **Access** via browser: `yoursite.com/viewer.php`.
+4.  **Access** via browser: `yoursite.com/easyview.php`.
 
 ---
 
